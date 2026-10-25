@@ -1,0 +1,266 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 9 - blowjob_texture0_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinFace",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 474,
+                        "height": 600
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBodyBack",
+                    "RectInt": {
+                        "x": 489,
+                        "y": 5,
+                        "width": 522,
+                        "height": 469
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBodyFront",
+                    "RectInt": {
+                        "x": 489,
+                        "y": 484,
+                        "width": 470,
+                        "height": 396
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinChest",
+                    "RectInt": {
+                        "x": 489,
+                        "y": 890,
+                        "width": 518,
+                        "height": 244
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBreastL",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 615,
+                        "width": 264,
+                        "height": 330
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBreastR",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 955,
+                        "width": 264,
+                        "height": 330
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinNeck",
+                    "RectInt": {
+                        "x": 969,
+                        "y": 484,
+                        "width": 276,
+                        "height": 270
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinArmL",
+                    "RectInt": {
+                        "x": 279,
+                        "y": 615,
+                        "width": 196,
+                        "height": 232
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinArmR",
+                    "RectInt": {
+                        "x": 279,
+                        "y": 955,
+                        "width": 196,
+                        "height": 232
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinEyelidClosedL",
+                    "RectInt": {
+                        "x": 1017,
+                        "y": 890,
+                        "width": 228,
+                        "height": 199
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinEyelidClosedR",
+                    "RectInt": {
+                        "x": 1021,
+                        "y": 5,
+                        "width": 226,
+                        "height": 198
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinEyelidR",
+                    "RectInt": {
+                        "x": 1021,
+                        "y": 213,
+                        "width": 211,
+                        "height": 154
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinEyelidL",
+                    "RectInt": {
+                        "x": 1017,
+                        "y": 1099,
+                        "width": 210,
+                        "height": 154
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinEyelid2L",
+                    "RectInt": {
+                        "x": 969,
+                        "y": 764,
+                        "width": 191,
+                        "height": 112
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinEyelid2R",
+                    "RectInt": {
+                        "x": 489,
+                        "y": 1144,
+                        "width": 195,
+                        "height": 109
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinLipUpper",
+                    "RectInt": {
+                        "x": 279,
+                        "y": 857,
+                        "width": 178,
+                        "height": 71
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinLipLower",
+                    "RectInt": {
+                        "x": 1021,
+                        "y": 377,
+                        "width": 169,
+                        "height": 75
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinLipLowerToungeOut",
+                    "RectInt": {
+                        "x": 694,
+                        "y": 1144,
+                        "width": 142,
+                        "height": 81
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinLipUpperToungeOut",
+                    "RectInt": {
+                        "x": 846,
+                        "y": 1144,
+                        "width": 139,
+                        "height": 60
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinNose",
+                    "RectInt": {
+                        "x": 1170,
+                        "y": 764,
+                        "width": 58,
+                        "height": 104
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinMouthThumbSuck",
+                    "RectInt": {
+                        "x": 279,
+                        "y": 1197,
+                        "width": 81,
+                        "height": 55
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "blowjob"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

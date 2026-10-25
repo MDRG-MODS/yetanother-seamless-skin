@@ -1,0 +1,89 @@
+
+ 
+ {
+    
+    "PackedTextures": [
+        {
+            "TextureName": "tex 7 - shower_texture0_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "AttachArmLLower",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 529,
+                        "height": 212
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmLUpper",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 227,
+                        "width": 224,
+                        "height": 437
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmLHand",
+                    "RectInt": {
+                        "x": 239,
+                        "y": 227,
+                        "width": 186,
+                        "height": 397
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmLHand_POV",
+                    "RectInt": {
+                        "x": 435,
+                        "y": 227,
+                        "width": 220,
+                        "height": 293
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmLUpper_POV",
+                    "RectInt": {
+                        "x": 435,
+                        "y": 530,
+                        "width": 170,
+                        "height": 260
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmLLower_POV",
+                    "RectInt": {
+                        "x": 615,
+                        "y": 530,
+                        "width": 140,
+                        "height": 218
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "shower"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

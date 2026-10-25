@@ -1,0 +1,50 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 2 - doggy_texture0_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "AttachLegLLower",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 354,
+                        "height": 155
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachLegL",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 170,
+                        "width": 210,
+                        "height": 220
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachLegLFoot",
+                    "RectInt": {
+                        "x": 225,
+                        "y": 170,
+                        "width": 247,
+                        "height": 165
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

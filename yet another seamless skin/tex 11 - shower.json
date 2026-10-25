@@ -1,0 +1,625 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 11 - shower_texture0_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinButt",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 681,
+                        "height": 690
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "Thighs2",
+                    "RectInt": {
+                        "x": 696,
+                        "y": 5,
+                        "width": 675,
+                        "height": 617
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "Thighs",
+                    "RectInt": {
+                        "x": 696,
+                        "y": 632,
+                        "width": 675,
+                        "height": 617
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinButtSeamline",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 705,
+                        "width": 613,
+                        "height": 457
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinWaistLower",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 1172,
+                        "width": 585,
+                        "height": 840
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinFace2",
+                    "RectInt": {
+                        "x": 696,
+                        "y": 1259,
+                        "width": 558,
+                        "height": 629
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinRibcage",
+                    "RectInt": {
+                        "x": 1264,
+                        "y": 1259,
+                        "width": 479,
+                        "height": 771
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinPelvis",
+                    "RectInt": {
+                        "x": 1381,
+                        "y": 5,
+                        "width": 454,
+                        "height": 460
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBoob2",
+                    "RectInt": {
+                        "x": 1381,
+                        "y": 632,
+                        "width": 340,
+                        "height": 502
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinArm",
+                    "RectInt": {
+                        "x": 1731,
+                        "y": 632,
+                        "width": 284,
+                        "height": 432
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinArm2",
+                    "RectInt": {
+                        "x": 1753,
+                        "y": 1259,
+                        "width": 284,
+                        "height": 432
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinNeck2",
+                    "RectInt": {
+                        "x": 1753,
+                        "y": 1701,
+                        "width": 268,
+                        "height": 234
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinLowerLip",
+                    "RectInt": {
+                        "x": 1381,
+                        "y": 475,
+                        "width": 150,
+                        "height": 28
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinUpperLip",
+                    "RectInt": {
+                        "x": 1381,
+                        "y": 1144,
+                        "width": 140,
+                        "height": 28
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinMouth3",
+                    "RectInt": {
+                        "x": 1541,
+                        "y": 475,
+                        "width": 100,
+                        "height": 114
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinButtOutline",
+                    "RectInt": {
+                        "x": 628,
+                        "y": 705,
+                        "width": 57,
+                        "height": 443
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinNose",
+                    "RectInt": {
+                        "x": 600,
+                        "y": 1172,
+                        "width": 52,
+                        "height": 109
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinMouth2Lower",
+                    "RectInt": {
+                        "x": 600,
+                        "y": 1291,
+                        "width": 47,
+                        "height": 91
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "shower"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 11 - shower_texture1_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinButtL_POV",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 548,
+                        "height": 666
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinButtR_POV",
+                    "RectInt": {
+                        "x": 563,
+                        "y": 5,
+                        "width": 548,
+                        "height": 666
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "ThighR_POV",
+                    "RectInt": {
+                        "x": 563,
+                        "y": 681,
+                        "width": 572,
+                        "height": 615
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "ThighL_POV",
+                    "RectInt": {
+                        "x": 1121,
+                        "y": 5,
+                        "width": 572,
+                        "height": 615
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinRibcageBase_POV",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 681,
+                        "width": 490,
+                        "height": 578
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinSideFace_POV",
+                    "RectInt": {
+                        "x": 1145,
+                        "y": 681,
+                        "width": 366,
+                        "height": 426
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinPelvis2_POV",
+                    "RectInt": {
+                        "x": 1145,
+                        "y": 1117,
+                        "width": 687,
+                        "height": 199
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinSeamlineButtL_POV",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 1269,
+                        "width": 234,
+                        "height": 587
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinSeamlineButtR_POV",
+                    "RectInt": {
+                        "x": 249,
+                        "y": 1269,
+                        "width": 234,
+                        "height": 587
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinLowerWaistBase_POV",
+                    "RectInt": {
+                        "x": 563,
+                        "y": 1306,
+                        "width": 516,
+                        "height": 232
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinButtBase_POV",
+                    "RectInt": {
+                        "x": 1145,
+                        "y": 1326,
+                        "width": 222,
+                        "height": 527
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinUpperWaistBase_POV",
+                    "RectInt": {
+                        "x": 1377,
+                        "y": 1326,
+                        "width": 402,
+                        "height": 224
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinScapulaL_POV",
+                    "RectInt": {
+                        "x": 563,
+                        "y": 1548,
+                        "width": 196,
+                        "height": 445
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinScapulaR_POV",
+                    "RectInt": {
+                        "x": 769,
+                        "y": 1548,
+                        "width": 196,
+                        "height": 445
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinUpperWaist_POV",
+                    "RectInt": {
+                        "x": 1521,
+                        "y": 681,
+                        "width": 320,
+                        "height": 230
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinLowerWaist_POV",
+                    "RectInt": {
+                        "x": 1521,
+                        "y": 921,
+                        "width": 402,
+                        "height": 128
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinShoulderR_POV",
+                    "RectInt": {
+                        "x": 1377,
+                        "y": 1560,
+                        "width": 178,
+                        "height": 268
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinShoulderL_POV",
+                    "RectInt": {
+                        "x": 1565,
+                        "y": 1560,
+                        "width": 178,
+                        "height": 266
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinUpperArmR_POV",
+                    "RectInt": {
+                        "x": 1703,
+                        "y": 5,
+                        "width": 164,
+                        "height": 228
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinUpperArmL_POV",
+                    "RectInt": {
+                        "x": 1703,
+                        "y": 243,
+                        "width": 164,
+                        "height": 228
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AnusInnerAndBottom_POV",
+                    "RectInt": {
+                        "x": 1753,
+                        "y": 1560,
+                        "width": 176,
+                        "height": 212
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinAnusTop_POV",
+                    "RectInt": {
+                        "x": 1703,
+                        "y": 481,
+                        "width": 206,
+                        "height": 170
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinNeck_POV",
+                    "RectInt": {
+                        "x": 1753,
+                        "y": 1782,
+                        "width": 192,
+                        "height": 172
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinSeamlineThighR_POV",
+                    "RectInt": {
+                        "x": 975,
+                        "y": 1548,
+                        "width": 69,
+                        "height": 384
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinSeamlineThighL_POV",
+                    "RectInt": {
+                        "x": 1054,
+                        "y": 1548,
+                        "width": 69,
+                        "height": 384
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinVaginaTop_POV",
+                    "RectInt": {
+                        "x": 1789,
+                        "y": 1326,
+                        "width": 198,
+                        "height": 128
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinVaginaL_POV",
+                    "RectInt": {
+                        "x": 1842,
+                        "y": 1117,
+                        "width": 116,
+                        "height": 198
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinVaginaR_POV",
+                    "RectInt": {
+                        "x": 1851,
+                        "y": 681,
+                        "width": 92,
+                        "height": 179
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinFaceSeamline_POV",
+                    "RectInt": {
+                        "x": 1877,
+                        "y": 5,
+                        "width": 85,
+                        "height": 162
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "Anus_POV",
+                    "RectInt": {
+                        "x": 1565,
+                        "y": 1836,
+                        "width": 106,
+                        "height": 104
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinSideLowerLip_POV",
+                    "RectInt": {
+                        "x": 493,
+                        "y": 1269,
+                        "width": 57,
+                        "height": 54
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinSideUpperLip_POV",
+                    "RectInt": {
+                        "x": 505,
+                        "y": 681,
+                        "width": 48,
+                        "height": 58
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "shower"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+
+    ]
+}

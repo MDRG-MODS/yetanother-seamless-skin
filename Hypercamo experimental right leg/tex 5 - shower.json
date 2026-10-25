@@ -1,0 +1,38 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 5 - shower_texture0_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "AttachLegRThigh",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 553,
+                        "height": 563
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachLegRThigh_POV",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 578,
+                        "width": 456,
+                        "height": 424
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "shower"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

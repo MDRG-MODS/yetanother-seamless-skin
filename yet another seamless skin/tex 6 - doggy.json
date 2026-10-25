@@ -1,0 +1,206 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 6 - doggy_texture0_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinHeadBase",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 250,
+                        "height": 266
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinRibcage",
+                    "RectInt": {
+                        "x": 265,
+                        "y": 5,
+                        "width": 240,
+                        "height": 267
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinThighBack",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 281,
+                        "width": 234,
+                        "height": 258
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinNeck",
+                    "RectInt": {
+                        "x": 265,
+                        "y": 282,
+                        "width": 223,
+                        "height": 251
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinWaistLower",
+                    "RectInt": {
+                        "x": 498,
+                        "y": 282,
+                        "width": 214,
+                        "height": 190
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinWaistUpper",
+                    "RectInt": {
+                        "x": 498,
+                        "y": 482,
+                        "width": 193,
+                        "height": 187
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinShoulderNoAtt",
+                    "RectInt": {
+                        "x": 515,
+                        "y": 5,
+                        "width": 187,
+                        "height": 189
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinPelvis",
+                    "RectInt": {
+                        "x": 265,
+                        "y": 543,
+                        "width": 160,
+                        "height": 206
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinArmUpper_Front",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 549,
+                        "width": 184,
+                        "height": 174
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinShoulder",
+                    "RectInt": {
+                        "x": 498,
+                        "y": 679,
+                        "width": 204,
+                        "height": 152
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBoobFront",
+                    "RectInt": {
+                        "x": 701,
+                        "y": 482,
+                        "width": 148,
+                        "height": 182
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinArmUpperNoAttFront1",
+                    "RectInt": {
+                        "x": 712,
+                        "y": 5,
+                        "width": 122,
+                        "height": 200
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinUpperEyelid",
+                    "RectInt": {
+                        "x": 515,
+                        "y": 204,
+                        "width": 99,
+                        "height": 65
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinLowerEyelid",
+                    "RectInt": {
+                        "x": 712,
+                        "y": 679,
+                        "width": 77,
+                        "height": 72
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinMouth",
+                    "RectInt": {
+                        "x": 624,
+                        "y": 204,
+                        "width": 78,
+                        "height": 44
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinLipUpper",
+                    "RectInt": {
+                        "x": 712,
+                        "y": 215,
+                        "width": 66,
+                        "height": 38
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}
