@@ -1,0 +1,302 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 8 - interaction_texture0_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinBodyFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 598,
+                        "height": 1070
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBodyBack",
+                    "RectInt": {
+                        "x": 613,
+                        "y": 5,
+                        "width": 525,
+                        "height": 583
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinArmLShoulderCuddleDown",
+                    "RectInt": {
+                        "x": 613,
+                        "y": 598,
+                        "width": 486,
+                        "height": 430
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinFace",
+                    "RectInt": {
+                        "x": 613,
+                        "y": 1038,
+                        "width": 475,
+                        "height": 601
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinArmLShoulderCuddleUp",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 1085,
+                        "width": 347,
+                        "height": 334
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinNeck",
+                    "RectInt": {
+                        "x": 1098,
+                        "y": 1038,
+                        "width": 326,
+                        "height": 227
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBreastR",
+                    "RectInt": {
+                        "x": 1109,
+                        "y": 598,
+                        "width": 256,
+                        "height": 314
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBreastL",
+                    "RectInt": {
+                        "x": 1148,
+                        "y": 5,
+                        "width": 256,
+                        "height": 312
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBraChestR",
+                    "RectInt": {
+                        "x": 1098,
+                        "y": 1275,
+                        "width": 248,
+                        "height": 328
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBraChestL",
+                    "RectInt": {
+                        "x": 1356,
+                        "y": 1275,
+                        "width": 248,
+                        "height": 328
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinButtL",
+                    "RectInt": {
+                        "x": 362,
+                        "y": 1085,
+                        "width": 238,
+                        "height": 373
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinButtR",
+                    "RectInt": {
+                        "x": 1375,
+                        "y": 598,
+                        "width": 236,
+                        "height": 373
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinEyelidClosedL",
+                    "RectInt": {
+                        "x": 1148,
+                        "y": 327,
+                        "width": 229,
+                        "height": 200
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinEyelidClosedR",
+                    "RectInt": {
+                        "x": 1387,
+                        "y": 327,
+                        "width": 226,
+                        "height": 198
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinEyelidR",
+                    "RectInt": {
+                        "x": 1414,
+                        "y": 5,
+                        "width": 211,
+                        "height": 154
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinEyelidL",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 1429,
+                        "width": 210,
+                        "height": 154
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinEyelid2R",
+                    "RectInt": {
+                        "x": 1414,
+                        "y": 169,
+                        "width": 195,
+                        "height": 109
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinEyelid2L",
+                    "RectInt": {
+                        "x": 1434,
+                        "y": 1038,
+                        "width": 191,
+                        "height": 112
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinLipUpper",
+                    "RectInt": {
+                        "x": 1109,
+                        "y": 922,
+                        "width": 178,
+                        "height": 72
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinLipLower",
+                    "RectInt": {
+                        "x": 1434,
+                        "y": 1160,
+                        "width": 169,
+                        "height": 75
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinLipLowerToungeOut",
+                    "RectInt": {
+                        "x": 362,
+                        "y": 1468,
+                        "width": 142,
+                        "height": 81
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinLipUpperToungeOut",
+                    "RectInt": {
+                        "x": 362,
+                        "y": 1559,
+                        "width": 140,
+                        "height": 61
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinMouthThumbSuck",
+                    "RectInt": {
+                        "x": 225,
+                        "y": 1429,
+                        "width": 81,
+                        "height": 55
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinNose",
+                    "RectInt": {
+                        "x": 1297,
+                        "y": 922,
+                        "width": 59,
+                        "height": 105
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "interaction"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

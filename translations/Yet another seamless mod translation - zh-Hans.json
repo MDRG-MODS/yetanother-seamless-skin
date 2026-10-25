@@ -1,0 +1,110 @@
+{
+    "TargetModVersion": "1.0.0",
+    "TargetModGuid": {
+        "serializedGuid": "c3eeab95-1fc9-4735-b47e-2411d99814f1"
+    },
+    "LocaleKeyCode": "zh-Hans",
+    "ShortNotes": "",
+    "TranslationRows": [
+        {
+            "Key": "Item_0_Name",
+            "DefaultString": "YA seamless experimental left arm",
+            "TranslatedString": "无缝实验性左臂"
+        },
+        {
+            "Key": "Item_0_Description",
+            "DefaultString": "Unusual left arm. <color=#00FF00> Allows you to change the color of this part freely thanks to the use of very high-tech electrochromic materials.</color>",
+            "TranslatedString": "不同于黑市上流通的左臂。<color=#00FF00> 得益于使用了下一代电致变色材料，你可以自由改变此部件的颜色</color>"
+        },
+        {
+            "Key": "Item_0_Color+0",
+            "DefaultString": "Main color",
+            "TranslatedString": "主要颜色"
+        },
+        {
+            "Key": "Item_1_Name",
+            "DefaultString": "YA seamless experimental right arm",
+            "TranslatedString": "无缝实验性右臂"
+        },
+        {
+            "Key": "Item_1_Description",
+            "DefaultString": "Unusual right arm. <color=#00FF00> Allows you to change the color of this part freely thanks to the use of very high-tech electrochromic materials.</color>",
+            "TranslatedString": "不同于黑市上流通的右臂。<color=#00FF00> 得益于使用了下一代电致变色材料，你可以自由改变此部件的颜色</color>"
+        },
+        {
+            "Key": "Item_1_Color+0",
+            "DefaultString": "Main color",
+            "TranslatedString": "主要颜色"
+        },
+        {
+            "Key": "Item_2_Name",
+            "DefaultString": "YA seamless experimental left leg",
+            "TranslatedString": "无缝实验性左腿"
+        },
+        {
+            "Key": "Item_2_Description",
+            "DefaultString": "Unusual left leg. <color=#00FF00> Allows you to change the color of this part freely thanks to the use of very high-tech electrochromic materials.</color>",
+            "TranslatedString": "不同于黑市上流通的左腿。<color=#00FF00> 得益于使用了下一代电致变色材料，你可以自由改变此部件的颜色</color>"
+        },
+        {
+            "Key": "Item_2_Color+0",
+            "DefaultString": "Main color",
+            "TranslatedString": "主要颜色"
+        },
+        {
+            "Key": "Item_3_Name",
+            "DefaultString": "YA seamless experimental right leg",
+            "TranslatedString": "无缝实验性右腿"
+        },
+        {
+            "Key": "Item_3_Description",
+            "DefaultString": "Unusual right leg. <color=#00FF00> Allows you to change the color of this part freely thanks to the use of very high-tech electrochromic materials.</color>",
+            "TranslatedString": "不同于黑市上流通的右腿。 <color=#00FF00>得益于使用了下一代电致变色材料，你可以自由改变此部件的颜色</color> <color=#CCAA00>☆非凡左腿☆</color>"
+        },
+        {
+            "Key": "Item_3_Color+0",
+            "DefaultString": "Main color",
+            "TranslatedString": "主要颜色"
+        },
+        {
+            "Key": "Item_4_Name",
+            "DefaultString": "YA seamless skin",
+            "TranslatedString": "无缝皮肤"
+        },
+        {
+            "Key": "Item_4_Description",
+            "DefaultString": "High-tech seamless hypercamo skin makes the bot look more human!\nSomehow works out of the box.<color=#00FF00> Allows you to change the color of this part freely thanks to the use of very high-tech electrochromic materials.</color>",
+            "TranslatedString": "高科技无缝超迷彩皮肤能让你的机器人看起来更像人类！开箱即用。<color=#00FF00> 得益于使用了非常高科技的电致变色材料，你可以自由改变此部件的颜色。</color> <color=#F00000>据某人说这东西来自夜之城？！</color>"
+        },
+        {
+            "Key": "Item_4_Color+0",
+            "DefaultString": "Main color",
+            "TranslatedString": "主要颜色"
+        },
+        {
+            "Key": "Item_5_Name",
+            "DefaultString": "YA seamless (no-abs) skin",
+            "TranslatedString": "无缝皮肤（无腹肌）"
+        },
+        {
+            "Key": "Item_5_Description",
+            "DefaultString": "High-tech seamless hypercamo skin makes the bot look more human!\nSomehow works out of the box.<color=#00FF00> Allows you to change the color of this part freely thanks to the use of very high-tech electrochromic materials.</color>",
+            "TranslatedString": "高科技无缝超迷彩皮肤能让你的机器人看起来更像人类！开箱即用。<color=#00FF00> 得益于使用了非常高科技的电致变色材料，你可以自由改变此部件的颜色。</color>"
+        },
+        {
+            "Key": "Item_5_Color+0",
+            "DefaultString": "Main color",
+            "TranslatedString": "主要颜色"
+        },
+        {
+            "Key": "Item_6_Name",
+            "DefaultString": "YA Seamless Components Set",
+            "TranslatedString": "无缝组件套装"
+        },
+        {
+            "Key": "Item_6_Description",
+            "DefaultString": "full seamless skin and components set<color=#00FF00>\nThis item is still in its packaging. You have to unpack it first!</color>",
+            "TranslatedString": "一次性配齐！全套无缝皮肤与组件套装<color=#00FF00>\n该物品仍在包装中。你需要先拆开包装！</color>"
+        }
+    ]
+}

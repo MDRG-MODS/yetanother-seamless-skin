@@ -1,0 +1,62 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 4 - blowjob_texture0_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "lines",
+                    "RectInt": {
+                        "x": 1,
+                        "y": 1,
+                        "width": 322,
+                        "height": 126
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinShoulderL",
+                    "RectInt": {
+                        "x": 1,
+                        "y": 129,
+                        "width": 251,
+                        "height": 284
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinShoulderR",
+                    "RectInt": {
+                        "x": 254,
+                        "y": 129,
+                        "width": 253,
+                        "height": 282
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "barcode",
+                    "RectInt": {
+                        "x": 325,
+                        "y": 1,
+                        "width": 110,
+                        "height": 59
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "blowjob"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 5 - cowgirl_texture0_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinThighL",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 547,
+                        "height": 504
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinThighR",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 519,
+                        "width": 540,
+                        "height": 506
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinPalvisTop",
+                    "RectInt": {
+                        "x": 555,
+                        "y": 519,
+                        "width": 442,
+                        "height": 218
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "lines",
+                    "RectInt": {
+                        "x": 562,
+                        "y": 5,
+                        "width": 322,
+                        "height": 126
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinUpperArmR",
+                    "RectInt": {
+                        "x": 562,
+                        "y": 141,
+                        "width": 235,
+                        "height": 362
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinUpperArmL",
+                    "RectInt": {
+                        "x": 807,
+                        "y": 141,
+                        "width": 230,
+                        "height": 362
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "Barcode",
+                    "RectInt": {
+                        "x": 555,
+                        "y": 747,
+                        "width": 134,
+                        "height": 69
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "cowgirl"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

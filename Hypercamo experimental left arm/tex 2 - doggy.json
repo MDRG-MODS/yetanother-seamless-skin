@@ -1,0 +1,26 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 2 - doggy_texture0_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "AttachArmLHand",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 118,
+                        "height": 94
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

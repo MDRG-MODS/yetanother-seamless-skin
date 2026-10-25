@@ -1,0 +1,98 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 3 - interaction_texture0_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinThighL",
+                    "RectInt": {
+                        "x": 1,
+                        "y": 1,
+                        "width": 427,
+                        "height": 590
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinThighR",
+                    "RectInt": {
+                        "x": 430,
+                        "y": 1,
+                        "width": 427,
+                        "height": 590
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinPelvis",
+                    "RectInt": {
+                        "x": 430,
+                        "y": 593,
+                        "width": 682,
+                        "height": 366
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinArmR",
+                    "RectInt": {
+                        "x": 1,
+                        "y": 593,
+                        "width": 233,
+                        "height": 386
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinArmL",
+                    "RectInt": {
+                        "x": 859,
+                        "y": 1,
+                        "width": 234,
+                        "height": 382
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "lines",
+                    "RectInt": {
+                        "x": 430,
+                        "y": 961,
+                        "width": 322,
+                        "height": 126
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "barcode",
+                    "RectInt": {
+                        "x": 236,
+                        "y": 593,
+                        "width": 98,
+                        "height": 49
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "interaction"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}
